@@ -9,7 +9,7 @@ public class Block : MonoBehaviour
     [Tooltip("Block neighbors")][SerializeField]                    public List<Block> neighbors = new List<Block>();
 
     /// <summary>
-    /// Get block corners
+    /// Get block corners.
     /// </summary>
     /// <returns>List of block corners</returns>
     public List<Vector2> GetCorners()
@@ -25,7 +25,7 @@ public class Block : MonoBehaviour
     }
 
     /// <summary>
-    /// Remove this block from the game
+    /// Remove this block from the game.
     /// </summary>
     public virtual void RemoveBlock()
     {
@@ -35,7 +35,7 @@ public class Block : MonoBehaviour
     }
 
     /// <summary>
-    /// Remove neighbors from the list of neighbors
+    /// Remove neighbors from the list of neighbors.
     /// </summary>
     /// <param name="neigbhorsToRemove">All the neighbors to remove</param>
     public void RemoveNeighbors(List<Block> neigbhorsToRemove)
