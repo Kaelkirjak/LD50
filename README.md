@@ -1,6 +1,6 @@
 # LD50 (Tartu Ülikooli Mängujämm 2022)
 
-CUP HALF FULL is a Tetris like game where your goal is to keep the falling blocks from overfilling your cup. To do that, you can stack blocks in a way to create horizontal lines, that then vanish and award you points. To add a little bit of chaos, the blocks are very bouncy and like to knock each other out of their positions.
+CUP HALF FULL is a Tetris like game where your goal is to keep the falling blocks from overfilling your cup. To do that, you can stack blocks in a way to create horizontal lines, that then vanish and award you points. To add a little bit of chaos, the blocks are very bouncy and like to knock each other out of their positions. Unity: Unity 2021.1.20f1 (64-bit).
 
 [Ludum dare](https://ldjam.com/events/ludum-dare/50/cup-half-full)
 
